@@ -1,2 +1,2 @@
 # Vijak-DSB
-My data science and analytics projectsd
+My data science and analytics projects
